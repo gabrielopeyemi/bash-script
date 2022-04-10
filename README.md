@@ -64,5 +64,7 @@ alias bash='code ~/.bashrc'
 
 ## Switch on keyboard Light
 ```
-aliases backLight="xset led on"
+function backLight(){
+    xset led on
+}
 ```
