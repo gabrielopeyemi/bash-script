@@ -62,3 +62,7 @@ alias c='clear'
 alias bash='code ~/.bashrc'
 ```
 
+## Switch on keyboard Light
+```
+aliases backLight="xset led on"
+```
